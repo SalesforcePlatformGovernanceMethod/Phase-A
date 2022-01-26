@@ -2,15 +2,7 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-a/blob/dfc0367d0b69c5b2f8f1d018044e6391a363ed23/images/phase-a.png" title="Phase A">
 </p>
 
-<p align='center'>
-  <h1>Phase A: Application Architecture</h1>
-</p>
-
-## _Introduction_
-
-Welcome to the **Salesforce Platform Governance Method Recourse Base** links repository. Here you will find all the links for the resources that are covred in the book. Just click on the chapter your interested in to see all the resources available.
-
-## **Chapter 12 – Application Architecture (Phase A) Resource Base Links**
+## Phase A: Application Architecture
 
 **General Architecture**
 
