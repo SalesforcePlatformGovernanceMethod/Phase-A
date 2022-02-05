@@ -2,9 +2,9 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-a/blob/dfc0367d0b69c5b2f8f1d018044e6391a363ed23/images/phase-a.png" title="Phase A">
 </p>
 
-## Phase A: Application Architecture
+# Phase A: Application Architecture
 
-**General Architecture**
+## **General Architecture**
 
 - [Multi-Tenant Architecture](https://developer.salesforce.com/page/Multi_Tenant_Architecture)
 
@@ -40,7 +40,7 @@
 
 - [Salesforce Connect](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_top.htm)
 
-**Localisation / global Deployments**
+## **Localisation / global Deployments**
 
 - [Translation Workbench](https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_workbench_cheatsheet.pdf)
 
@@ -62,7 +62,7 @@
 
 - [Process, Limits and Considerations](https://help.salesforce.com/s/articleView?id=sf.process_considerations.htm&type=5)
 
-**Formulas**
+## **Formulas**
 
 - [Calculate Field Values with Formulas](https://help.salesforce.com/s/articleView?id=sf.customize_formuladef.htm&type=5)
 
@@ -72,7 +72,7 @@
 
 - [Tips for Building Formulas](https://help.salesforce.com/s/articleView?id=sf.tips_on_building_formulas.htm&type=5)
 
-**Files and Social**
+## **Files and Social**
 
 - [Difference Between Files, Knowledge, Documents, and Attachments](https://help.salesforce.com/s/articleView?id=sf.collab_files_differences.htm&type=5)
 
